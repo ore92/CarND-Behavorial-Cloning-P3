@@ -4,7 +4,7 @@
 ##  Included Files
 * `model.py`: file contains the code for training and saving the convolution neural network. The file shows the pipeline I used for training and validating the model, and it contains comments to explain how the code works.
     * [Video of the model driving](https://www.youtube.com/watch?v=BuNYg8pbcI8) 
-* `model.h6`: containing the trained convolution neural network
+* `model.h5`: containing the trained convolution neural network
 * `drive.py`: for driving the car in autonomous mode
 
 ## 2. Dataset Characteristics
