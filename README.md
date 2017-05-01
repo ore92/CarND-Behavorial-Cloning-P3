@@ -17,16 +17,15 @@ I used the data provided instead of generating my own since I couldn't easily fi
 * I also added a little noise(overfitting purposed) to the saturation values of the images; i modified this randomly between -5 to +5.
 
 #### Sample Data
-Here are examples of an image in the data set.
-Original Image
-![Original Image1](examples/left.jpg)
-![Augumented Image1](examples/left_augumented.jpg)
+Here are examples images in the dataset and the preprocessing performed on them9(+/- 5) on the saturation values).
+![Original Image1](examples/left.jpg) ![Augumented Image1](examples/left_augumented.jpg)
 <table>
 <th>Steering Angle</th>
 <tr><td>-1</td>
 </table>
-![Original Image2](examples/right.jpg)
-![Augumented Image2](examples/right_augumented.jpg)
+
+![Original Image2](examples/right.jpg) ![Augumented Image2](examples/right_augumented.jpg)
+
 <table>
 <th>Steering Angle</th>
 <tr><td>--0.94</td>
